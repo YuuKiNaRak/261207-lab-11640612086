@@ -8,10 +8,15 @@
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false
-  }
+  },
   {
     "username": "Test1",
     "password": "$2b$12$7f1uTvxPbuHdSgwWwHYCNuM4dTGjwMKdzmPpFHFLffnqn8STvN/Uq",
+    "isAdmin": false
+  },
+  {
+    "username": "Test2",
+    "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false
   }
 ]
