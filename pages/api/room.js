@@ -21,5 +21,6 @@ export default function roomRoute(req, res) {
       rooms,
     });
   }
+  
   //create room data and return response
 }
